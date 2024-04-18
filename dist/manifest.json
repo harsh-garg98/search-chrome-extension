@@ -1,6 +1,6 @@
 {
-  "name": "Omnibox - New Tab Search",
-  "description": "Demonstrates the \"omnibox\" manifest key and API by creating a keyword that performs a Google search in the same tab.",
+  "name": "Google Search",
+  "description": "Perform a Google search in the same tab.",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
