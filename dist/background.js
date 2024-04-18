@@ -1,0 +1,1 @@
+(()=>{"use strict";chrome.omnibox.onInputEntered.addListener((e=>{if(e){const o="https://www.google.com/search?q="+encodeURIComponent(e);chrome.tabs.update({url:o})}}))})();
